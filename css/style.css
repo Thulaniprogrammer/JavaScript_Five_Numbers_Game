@@ -1,0 +1,19 @@
+body{
+    background-color: #b84c44;
+}
+.inputWidth{
+    width: 130px;
+}
+.number{
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 40px;
+    border-radius: 50%;
+    color: white;
+    background-color: black;
+}
+input[type=number]{
+    pointer-events: none;
+  }
